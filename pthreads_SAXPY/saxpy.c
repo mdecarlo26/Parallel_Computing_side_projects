@@ -1,10 +1,8 @@
 /* Implementation of the SAXPY loop.
  *
- * Compile as follows: gcc -o saxpy saxpy.c -O3 -Wall -std=c99 -lpthread -lm
- *
- * Author: Naga Kandasamy
- * Date created: April 14, 2020
- * Date modified: January 23, 2024 
+ * Compile as follows:
+ *      make
+ *      ./saxpy array_size num_threads
  *
  * Student names: Marc DeCarlo
  * Date: 2/1/2024
