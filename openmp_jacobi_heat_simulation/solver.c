@@ -1,14 +1,9 @@
 /* Code for the Jacbi equation solver. 
- * Author: Naga Kandasamy
- * Date modified: February 14, 2024
  *
  * Compile as follows:
  * gcc -o solver solver.c solver_gold.c -fopenmp -O3 -Wall -std=c99 -lm
  *
  * If you wish to see debug info add the -D DEBUG option when compiling the code.
- 
- * Student name(s): 
- * Date modified: 
  */
 
 // System includes

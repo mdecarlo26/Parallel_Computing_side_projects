@@ -1,10 +1,4 @@
 /* Gaussian elimination code.
- * 
- * Author: Naga Kandasamy
- * Date modified: February 2, 2024
- *
- * Student names(s): Marc DeCarlo
- * Date: 2/15/24
  *
  * Compile as follows: 
  * gcc -o gauss_eliminate gauss_eliminate.c compute_gold.c -std=c99 -O3 -Wall -lpthread -lm

@@ -1,11 +1,5 @@
 /* Gaussian elimination code.
  * 
- * Author: Naga Kandasamy
- * Date modified: February 14, 2024
- *
- * Student names(s): FIXME
- * Date: FIXME
- *
  * Compile as follows: 
  * gcc -o gauss_eliminate gauss_eliminate.c compute_gold.c -fopenmp -std=c99 -Wall -O3 -lm
  */

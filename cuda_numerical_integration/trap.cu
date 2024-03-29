@@ -4,11 +4,6 @@
         make clean && make 
         ./trap a b n 
 
- * Author: Naga Kandasamy
- * Date modified: March 8, 2024
-
- * Student name(s): FIXME
- * Date modified: FIXME
 */
 
 #include <stdlib.h>

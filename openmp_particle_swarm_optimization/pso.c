@@ -7,12 +7,6 @@
  * Compile using provided Makefile: make 
  * If executable exists or if you have made changes to the .h file but not to the .c files, delete the executable and rebuild 
  * as follows: make clean && make
- *
- * Author: Naga Kandasamy
- * Date modified: February 23, 2024 
- *
- * Student/team: Marc DeCarlo
- * Date: 2/29
  */  
 #include <stdio.h>
 #include <stdlib.h>

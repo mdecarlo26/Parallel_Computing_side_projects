@@ -2,12 +2,6 @@
  * by iteration.
 
  * Build as follows: make clean && make
-
- * Author: Naga Kandasamy
- * Date modified: March 15, 2024
- *
- * Student name(s); FIXME
- * Date modified: FIXME
 */
 
 #include <stdlib.h>

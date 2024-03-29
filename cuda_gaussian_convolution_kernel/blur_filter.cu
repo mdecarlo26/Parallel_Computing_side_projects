@@ -4,11 +4,6 @@
         make clean && make 
         ./blur_filter size
 
-    Author: Naga Kandasamy
-    Date modified: March 1, 2024
-
-    Student name(s): FIXME
-    Date modified: FIXME
 */
 
 #include <stdlib.h>
